@@ -1,10 +1,10 @@
 # Restaurant Recommendation System
 
-A full-stack restaurant recommendation system developed as part of a final-year capstone project. The system collects user preferences through a web-based form, processes them through multiple decision-making algorithms, and returns ranked restaurant recommendations. It was designed around a three-layer architecture consisting of a WordPress frontend, a Spring Boot backend, and MongoDB for storage. :contentReference[oaicite:0]{index=0} 
+A full-stack restaurant recommendation system developed as part of a final-year capstone project. The system collects user preferences through a web-based form, processes them through multiple decision-making algorithms, and returns ranked restaurant recommendations. It was designed around a three-layer architecture consisting of a WordPress frontend, a Spring Boot backend, and MongoDB for storage.
 
 ## Overview
 
-The project addresses the problem of helping users make restaurant choices based on multiple criteria such as cuisine, dietary preferences, dishes, budget, seating, and distance. User inputs are converted into structured numerical preferences, sent to the backend as JSON, and processed by different recommendation algorithms. The backend then stores and returns the top restaurant recommendations. :contentReference[oaicite:2]{index=2}
+The project addresses the problem of helping users make restaurant choices based on multiple criteria such as cuisine, dietary preferences, dishes, budget, seating, and distance. User inputs are converted into structured numerical preferences, sent to the backend as JSON, and processed by different recommendation algorithms. The backend then stores and returns the top restaurant recommendations.
 
 ## Key Features
 
@@ -65,7 +65,7 @@ The system stores:
 
 ## Evaluation Summary
 
-The project evaluated recommendation quality using user feedback across different input styles. Content-based filtering and fuzzy logic performed better when historical data was limited, while Bayesian inference and collaborative filtering depended more heavily on the quality and quantity of historical data. Weighted user input produced the strongest satisfaction scores overall. :contentReference[oaicite:9]{index=9}
+The project evaluated recommendation quality using user feedback across different input styles. Content-based filtering and fuzzy logic performed better when historical data was limited, while Bayesian inference and collaborative filtering depended more heavily on the quality and quantity of historical data. Weighted user input produced the strongest satisfaction scores overall.
 
 ## Technologies Used
 
