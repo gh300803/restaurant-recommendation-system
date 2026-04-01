@@ -1,0 +1,544 @@
+[{
+  "_id": {
+    "$oid": "67e571358e896a6da2793d55"
+  },
+  "recommendations": [
+    {
+      "name": "Napoli Trattoria",
+      "score": 93
+    },
+    {
+      "name": "Roma Pizzeria",
+      "score": 88
+    },
+    {
+      "name": "Mexicali Grill",
+      "score": 81
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e66fcf1f52be79f60d3983"
+  },
+  "recommendations": [
+    {
+      "score": 0.9091,
+      "name": "Roma Pizzeria"
+    },
+    {
+      "score": 0.4688,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.4687,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e6848fa775e966b706ce13"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.2654,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.2654,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e685126bddd14aca0ad663"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.3123,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.3123,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e6856b9388aeb246019653"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.36,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e6869dac00a47694089c53"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.4082,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.4082,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68b8dadf809577d00c373"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.4565,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.4565,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68c3c75d3fbf5890b3f83"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.5048,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.5048,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68cdcd982df528d0170d3"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.5529,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.5529,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68d375fc8a2c5ff0940c3"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.6006,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.6006,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68d9022c15b69b9009ce3"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.6478,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.6478,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68df3566e30084001e1b3"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.6944,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.6944,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68ea490cd4cbb3804a8f3"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.7404,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.7404,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e6997ae8d1d071280c85e3"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.7856,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.7856,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e6b3815225e280880c5b53"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.8301,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.8301,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb2645ea7f7509280132b3"
+  },
+  "recommendations": [
+    {
+      "score": 2.4198,
+      "name": "Roma Pizzeria"
+    },
+    {
+      "score": 0.2963,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.2963,
+      "name": "Taco Fiesta"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb2f747ea25f019904df53"
+  },
+  "recommendations": [
+    {
+      "score": 1.5,
+      "name": "Roma Pizzeria"
+    },
+    {
+      "score": 0.1458,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 0.135,
+      "name": "Napoli Trattoria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb9a2f05f4eae03707ed23"
+  },
+  "recommendations": [
+    {
+      "score": 2.3884,
+      "name": "Roma Pizzeria"
+    },
+    {
+      "score": 0.8685,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 0.0751,
+      "name": "Mexicali Grill"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb9a7193137b6a7f008d43"
+  },
+  "recommendations": [
+    {
+      "score": 4.6296,
+      "name": "Roma Pizzeria"
+    },
+    {
+      "score": 0.196,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 0.0658,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb9c1c731364fedb040553"
+  },
+  "recommendations": [
+    {
+      "score": 2.2362,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 1.6154,
+      "name": "Roma Pizzeria"
+    },
+    {
+      "score": 0.3441,
+      "name": "Napoli Trattoria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68048a892933c12e86074ec2"
+  },
+  "timestamp": "2025-04-20T05:47:50.620+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "68048bb7681d01a80b0eb032"
+  },
+  "timestamp": "2025-04-20T05:52:53.131+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "6805db9a27f5427416042ca2"
+  },
+  "timestamp": "2025-04-21T05:45:59.884+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "6805dda340a4e653790cfff2"
+  },
+  "timestamp": "2025-04-21T05:54:40.745+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "6805ddef53624789a40a8b12"
+  },
+  "timestamp": "2025-04-21T05:55:56.839+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "6805df2bcca65435df068b72"
+  },
+  "timestamp": "2025-04-21T06:01:12.358+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "6805dfa292d28db70209a752"
+  },
+  "timestamp": "2025-04-21T06:03:11.812+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "6805e0305a171685ac029b22"
+  },
+  "timestamp": "2025-04-21T06:05:33.549+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "6805e09f2a92af72a0031bb2"
+  },
+  "timestamp": "2025-04-21T06:07:25.215+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "6805fcebb4b76aaa640a0052"
+  },
+  "timestamp": "2025-04-21T08:08:08.651+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "6805fd696bd7125b31093bb2"
+  },
+  "timestamp": "2025-04-21T08:10:14.610+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "68067f999626c211910ccda2"
+  },
+  "timestamp": "2025-04-21T17:25:42.484+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "68067fe7596bd85ba509ef12"
+  },
+  "timestamp": "2025-04-21T17:27:00.326+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/bayesian"
+},
+{
+  "_id": {
+    "$oid": "6806a9e084cede2787067ca3"
+  },
+  "status": "error",
+  "code": 404,
+  "message": "Application not found",
+  "request_id": "tefvEZUDQomZTeKkT4icxA_3554946428"
+},
+{
+  "_id": {
+    "$oid": "6806af92b87a1ff21401fa83"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 1,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": -1,
+      "name": "Athens Delight"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6806b0e2156c59e5d603a5d3"
+  },
+  "recommendations": [
+    {
+      "score": 1,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": -0.0407,
+      "name": "Santorini Taste"
+    },
+    {
+      "score": -0.0569,
+      "name": "Taco Fiesta"
+    }
+  ]
+}]

@@ -1,0 +1,467 @@
+[{
+  "_id": {
+    "$oid": "67e6869dac00a47694089c56"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 12,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68b8dadf809577d00c376"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 12,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68c3c75d3fbf5890b3f86"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 12,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68cdcd982df528d0170d6"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 12,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68d375fc8a2c5ff0940c6"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 12,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68d9022c15b69b9009ce6"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 12,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68df3566e30084001e1b6"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 12,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e68ea490cd4cbb3804a8f6"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 12,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e6997ae8d1d071280c85e6"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 12,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e6b3815225e280880c5b56"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 12,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb2645ea7f7509280132b6"
+  },
+  "recommendations": [
+    {
+      "score": 43,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 28,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 20,
+      "name": "Napoli Trattoria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb2f747ea25f019904df56"
+  },
+  "recommendations": [
+    {
+      "score": 43,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 34,
+      "name": "Napoli Trattoria"
+    },
+    {
+      "score": 26,
+      "name": "Athens Delight"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb9a3005f4eae03707ed26"
+  },
+  "recommendations": [
+    {
+      "score": 36,
+      "name": "Santorini Taste"
+    },
+    {
+      "score": 34,
+      "name": "Roma Pizzeria"
+    },
+    {
+      "score": 32,
+      "name": "Mexicali Grill"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb9a7193137b6a7f008d46"
+  },
+  "recommendations": [
+    {
+      "score": 46,
+      "name": "Mexicali Grill"
+    },
+    {
+      "score": 43,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 42,
+      "name": "Santorini Taste"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb9c1c731364fedb040556"
+  },
+  "recommendations": [
+    {
+      "score": 49,
+      "name": "Taco Fiesta"
+    },
+    {
+      "score": 35,
+      "name": "Athens Delight"
+    },
+    {
+      "score": 28,
+      "name": "Roma Pizzeria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68048a892933c12e86074ec5"
+  },
+  "timestamp": "2025-04-20T05:47:51.056+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "68048bb8681d01a80b0eb035"
+  },
+  "timestamp": "2025-04-20T05:52:53.650+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "6805db9b27f5427416042ca5"
+  },
+  "timestamp": "2025-04-21T05:46:00.465+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "6805dda340a4e653790cfff5"
+  },
+  "timestamp": "2025-04-21T05:54:41.041+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "6805ddef53624789a40a8b15"
+  },
+  "timestamp": "2025-04-21T05:55:57.135+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "6805df2bcca65435df068b75"
+  },
+  "timestamp": "2025-04-21T06:01:12.662+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "6805dfa292d28db70209a755"
+  },
+  "timestamp": "2025-04-21T06:03:12.099+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "6805e0305a171685ac029b25"
+  },
+  "timestamp": "2025-04-21T06:05:33.843+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "6805e0a02a92af72a0031bb5"
+  },
+  "timestamp": "2025-04-21T06:07:25.515+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "6805fcebb4b76aaa640a0055"
+  },
+  "timestamp": "2025-04-21T08:08:09.081+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "6805fd696bd7125b31093bb5"
+  },
+  "timestamp": "2025-04-21T08:10:15.064+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "68067f999626c211910ccda5"
+  },
+  "timestamp": "2025-04-21T17:25:43.060+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "68067fe7596bd85ba509ef15"
+  },
+  "timestamp": "2025-04-21T17:27:00.763+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/api/recommend/content"
+},
+{
+  "_id": {
+    "$oid": "6806a80f5c4f2d21090d7e24"
+  },
+  "status": "error",
+  "code": 404,
+  "message": "Application not found",
+  "request_id": "MIe3-CTzRN-qrOXWkl5rPw_3554946428"
+},
+{
+  "_id": {
+    "$oid": "6806a9e084cede2787067ca5"
+  },
+  "status": "error",
+  "code": 404,
+  "message": "Application not found",
+  "request_id": "ROrfCac7S6SYjQD1l4HRug_2608660245"
+},
+{
+  "_id": {
+    "$oid": "6806ab75c99cabdbb20d2d73"
+  },
+  "status": "error",
+  "code": 404,
+  "message": "Application not found",
+  "request_id": "3v-B9kg3Q5utgB6oNXqImQ_3554946428"
+},
+{
+  "_id": {
+    "$oid": "6806af92b87a1ff21401fa86"
+  },
+  "recommendations": [
+    {
+      "score": 0,
+      "name": "Athens Delight"
+    },
+    {
+      "score": 0,
+      "name": "Santorini Taste"
+    },
+    {
+      "score": 0,
+      "name": "Napoli Trattoria"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6806b0e2156c59e5d603a5d6"
+  },
+  "recommendations": [
+    {
+      "score": 41,
+      "name": "Roma Pizzeria"
+    },
+    {
+      "score": 31,
+      "name": "Santorini Taste"
+    },
+    {
+      "score": 27,
+      "name": "Napoli Trattoria"
+    }
+  ]
+}]

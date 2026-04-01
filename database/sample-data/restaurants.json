@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "67bc61a8e0ab9e93a1ce4689"
+  },
+  "name": "Athens Delight",
+  "type": "Greek",
+  "dietary_preferences": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "greek_food": [
+    "Gyro",
+    "Souvlaki"
+  ],
+  "budget_range": "£10-£20",
+  "seating": "both",
+  "distance": "5-10 miles"
+},
+{
+  "_id": {
+    "$oid": "67bc61a8e0ab9e93a1ce468a"
+  },
+  "name": "Santorini Taste",
+  "type": "Greek",
+  "dietary_preferences": [
+    "Vegan",
+    "Low-fat"
+  ],
+  "greek_food": [
+    "Moussaka"
+  ],
+  "budget_range": "Over £30",
+  "seating": "indoor",
+  "distance": "Under 5 miles"
+},
+{
+  "_id": {
+    "$oid": "67bc61a8e0ab9e93a1ce468b"
+  },
+  "name": "Roma Pizzeria",
+  "type": "Italian",
+  "dietary_preferences": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "italian_food": [
+    "Pizza",
+    "Pasta"
+  ],
+  "budget_range": "£20-£30",
+  "seating": "outdoor",
+  "distance": "Over 10 miles"
+},
+{
+  "_id": {
+    "$oid": "67bc61a8e0ab9e93a1ce468c"
+  },
+  "name": "Napoli Trattoria",
+  "type": "Italian",
+  "dietary_preferences": [
+    "Low-fat"
+  ],
+  "italian_food": [
+    "Lasagna"
+  ],
+  "budget_range": "Under £10",
+  "seating": "indoor",
+  "distance": "5-10 miles"
+},
+{
+  "_id": {
+    "$oid": "67bc61a8e0ab9e93a1ce468d"
+  },
+  "name": "Taco Fiesta",
+  "type": "Mexican",
+  "dietary_preferences": [
+    "Vegan",
+    "Gluten-free"
+  ],
+  "mexican_food": [
+    "Tacos",
+    "Burrito"
+  ],
+  "budget_range": "£10-£20",
+  "seating": "both",
+  "distance": "Under 5 miles"
+},
+{
+  "_id": {
+    "$oid": "67bc61a8e0ab9e93a1ce468e"
+  },
+  "name": "Mexicali Grill",
+  "type": "Mexican",
+  "dietary_preferences": [
+    "Vegetarian",
+    "Low-fat"
+  ],
+  "mexican_food": [
+    "Quesadilla"
+  ],
+  "budget_range": "Over £30",
+  "seating": "outdoor",
+  "distance": "Over 10 miles"
+}]

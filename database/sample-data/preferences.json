@@ -1,0 +1,592 @@
+[{
+  "_id": {
+    "$oid": "67e6bafa5d820ee8c406b112"
+  },
+  "cuisine": {
+    "greek": "1",
+    "mexican": "0",
+    "italian": "2"
+  },
+  "dietary_preferences": {
+    "vegeterian": "0",
+    "vegan": "0",
+    "gluten_free": "0",
+    "low_fat": "0"
+  },
+  "greek_cuisine": {
+    "gyro": "0",
+    "souvlaki": "0",
+    "mousaka": "0"
+  },
+  "italian_cusine": {
+    "pizza": "0",
+    "pasta": "0",
+    "lasagna": "0"
+  },
+  "mexican_cuisine": {
+    "tacos": "0",
+    "burrito": "0",
+    "quesadilla": "0"
+  },
+  "budget_range": {
+    "under10": "0",
+    "10to20": "0",
+    "20to30": "0",
+    "over30": "0"
+  },
+  "seating": {
+    "Indoor": "0",
+    "Outdoor": "0",
+    "Both": "0"
+  },
+  "distance": {
+    "Under5Miles": "0",
+    "5to10Miles": "0",
+    "Over10Miles": "0"
+  },
+  "submitted_at": {
+    "$date": "2025-03-28T15:06:33.516Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67eaa7332d92fa61900b0472"
+  },
+  "cuisine": {
+    "greek": "3",
+    "mexican": "0",
+    "italian": "1"
+  },
+  "dietary_preferences": {
+    "vegeterian": "0",
+    "vegan": "0",
+    "gluten_free": "1",
+    "low_fat": "0"
+  },
+  "greek_cuisine": {
+    "gyro": "0",
+    "souvlaki": "0",
+    "mousaka": "0"
+  },
+  "italian_cusine": {
+    "pizza": "0",
+    "pasta": "0",
+    "lasagna": "0"
+  },
+  "mexican_cuisine": {
+    "tacos": "0",
+    "burrito": "0",
+    "quesadilla": "0"
+  },
+  "budget_range": {
+    "under10": "0",
+    "10to20": "0",
+    "20to30": "0",
+    "over30": "0"
+  },
+  "seating": {
+    "Indoor": "0",
+    "Outdoor": "0",
+    "Both": "0"
+  },
+  "distance": {
+    "Under5Miles": "0",
+    "5to10Miles": "0",
+    "Over10Miles": "0"
+  },
+  "submitted_at": {
+    "$date": "2025-03-31T14:31:15.495Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67eb0793ebdf17884f095e82"
+  },
+  "cuisine": {
+    "greek": "0",
+    "mexican": "0",
+    "italian": "0"
+  },
+  "dietary_preferences": {
+    "vegeterian": "0",
+    "vegan": "2",
+    "gluten_free": "0",
+    "low_fat": "3"
+  },
+  "greek_cuisine": {
+    "gyro": "0",
+    "souvlaki": "0",
+    "mousaka": "0"
+  },
+  "italian_cusine": {
+    "pizza": "0",
+    "pasta": "0",
+    "lasagna": "0"
+  },
+  "mexican_cuisine": {
+    "tacos": "0",
+    "burrito": "0",
+    "quesadilla": "0"
+  },
+  "budget_range": {
+    "under10": "0",
+    "10to20": "0",
+    "20to30": "0",
+    "over30": "0"
+  },
+  "seating": {
+    "Indoor": "0",
+    "Outdoor": "0",
+    "Both": "0"
+  },
+  "distance": {
+    "Under5Miles": "0",
+    "5to10Miles": "0",
+    "Over10Miles": "0"
+  },
+  "submitted_at": {
+    "$date": "2025-03-31T21:22:27.266Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67eb0848995cb7f4c90cf9e2"
+  },
+  "cuisine": {
+    "greek": "0",
+    "mexican": "0",
+    "italian": "3"
+  },
+  "dietary_preferences": {
+    "vegeterian": "0",
+    "vegan": "0",
+    "gluten_free": "0",
+    "low_fat": "0"
+  },
+  "greek_cuisine": {
+    "gyro": "0",
+    "souvlaki": "0",
+    "mousaka": "0"
+  },
+  "italian_cusine": {
+    "pizza": "0",
+    "pasta": "0",
+    "lasagna": "0"
+  },
+  "mexican_cuisine": {
+    "tacos": "0",
+    "burrito": "0",
+    "quesadilla": "0"
+  },
+  "budget_range": {
+    "under10": "0",
+    "10to20": "0",
+    "20to30": "0",
+    "over30": "0"
+  },
+  "seating": {
+    "Indoor": "0",
+    "Outdoor": "0",
+    "Both": "0"
+  },
+  "distance": {
+    "Under5Miles": "0",
+    "5to10Miles": "0",
+    "Over10Miles": "0"
+  },
+  "submitted_at": {
+    "$date": "2025-03-31T21:25:28.199Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67eb09de7087c610aa0f16f2"
+  },
+  "cuisine": {
+    "greek": "0",
+    "mexican": "0",
+    "italian": "2"
+  },
+  "dietary_preferences": {
+    "vegeterian": "0",
+    "vegan": "0",
+    "gluten_free": "0",
+    "low_fat": "0"
+  },
+  "greek_cuisine": {
+    "gyro": "0",
+    "souvlaki": "0",
+    "mousaka": "0"
+  },
+  "italian_cusine": {
+    "pizza": "0",
+    "pasta": "0",
+    "lasagna": "0"
+  },
+  "mexican_cuisine": {
+    "tacos": "0",
+    "burrito": "0",
+    "quesadilla": "0"
+  },
+  "budget_range": {
+    "under10": "0",
+    "10to20": "0",
+    "20to30": "0",
+    "over30": "0"
+  },
+  "seating": {
+    "Indoor": "0",
+    "Outdoor": "0",
+    "Both": "0"
+  },
+  "distance": {
+    "Under5Miles": "0",
+    "5to10Miles": "0",
+    "Over10Miles": "0"
+  },
+  "submitted_at": {
+    "$date": "2025-03-31T21:32:14.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67eb0a61081b6d9efd0ec252"
+  },
+  "cuisine": {
+    "greek": "0",
+    "mexican": "0",
+    "italian": "0"
+  },
+  "dietary_preferences": {
+    "vegeterian": "0",
+    "vegan": "0",
+    "gluten_free": "0",
+    "low_fat": "0"
+  },
+  "greek_cuisine": {
+    "gyro": "0",
+    "souvlaki": "0",
+    "mousaka": "0"
+  },
+  "italian_cusine": {
+    "pizza": "0",
+    "pasta": "1",
+    "lasagna": "0"
+  },
+  "mexican_cuisine": {
+    "tacos": "0",
+    "burrito": "0",
+    "quesadilla": "0"
+  },
+  "budget_range": {
+    "under10": "0",
+    "10to20": "0",
+    "20to30": "0",
+    "over30": "0"
+  },
+  "seating": {
+    "Indoor": "0",
+    "Outdoor": "0",
+    "Both": "0"
+  },
+  "distance": {
+    "Under5Miles": "0",
+    "5to10Miles": "0",
+    "Over10Miles": "0"
+  },
+  "submitted_at": {
+    "$date": "2025-03-31T21:34:25.482Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67eb0b77169e3437d30eeea2"
+  },
+  "cuisine": {
+    "greek": "0",
+    "mexican": "2",
+    "italian": "3"
+  },
+  "dietary_preferences": {
+    "vegeterian": "0",
+    "vegan": "0",
+    "gluten_free": "0",
+    "low_fat": "0"
+  },
+  "greek_cuisine": {
+    "gyro": "0",
+    "souvlaki": "0",
+    "mousaka": "0"
+  },
+  "italian_cusine": {
+    "pizza": "0",
+    "pasta": "0",
+    "lasagna": "0"
+  },
+  "mexican_cuisine": {
+    "tacos": "0",
+    "burrito": "0",
+    "quesadilla": "0"
+  },
+  "budget_range": {
+    "under10": "0",
+    "10to20": "0",
+    "20to30": "0",
+    "over30": "0"
+  },
+  "seating": {
+    "Indoor": "0",
+    "Outdoor": "0",
+    "Both": "0"
+  },
+  "distance": {
+    "Under5Miles": "0",
+    "5to10Miles": "0",
+    "Over10Miles": "0"
+  },
+  "submitted_at": {
+    "$date": "2025-03-31T21:39:03.285Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67eb2644ea7f7509280132b2"
+  },
+  "cuisine": {
+    "greek": "0",
+    "mexican": "3",
+    "italian": "2"
+  },
+  "dietary_preferences": {
+    "vegeterian": "0",
+    "vegan": "0",
+    "gluten_free": "0",
+    "low_fat": "0"
+  },
+  "greek_cuisine": {
+    "gyro": "0",
+    "souvlaki": "0",
+    "mousaka": "0"
+  },
+  "italian_cusine": {
+    "pizza": "0",
+    "pasta": "0",
+    "lasagna": "0"
+  },
+  "mexican_cuisine": {
+    "tacos": "0",
+    "burrito": "0",
+    "quesadilla": "0"
+  },
+  "budget_range": {
+    "under10": "0",
+    "10to20": "0",
+    "20to30": "0",
+    "over30": "0"
+  },
+  "seating": {
+    "Indoor": "0",
+    "Outdoor": "0",
+    "Both": "0"
+  },
+  "distance": {
+    "Under5Miles": "2",
+    "5to10Miles": "0",
+    "Over10Miles": "0"
+  },
+  "submitted_at": {
+    "$date": "2025-03-31T23:33:24.737Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67eb2f737ea25f019904df52"
+  },
+  "cuisine": {
+    "greek": "1",
+    "mexican": "3",
+    "italian": "1"
+  },
+  "dietary_preferences": {
+    "vegeterian": "1",
+    "vegan": "0",
+    "gluten_free": "0",
+    "low_fat": "3"
+  },
+  "greek_cuisine": {
+    "gyro": "1",
+    "souvlaki": "2",
+    "mousaka": "2"
+  },
+  "italian_cusine": {
+    "pizza": "2",
+    "pasta": "0",
+    "lasagna": "3"
+  },
+  "mexican_cuisine": {
+    "tacos": "0",
+    "burrito": "1",
+    "quesadilla": "2"
+  },
+  "budget_range": {
+    "under10": "2",
+    "10to20": "2",
+    "20to30": "1",
+    "over30": "2"
+  },
+  "seating": {
+    "Indoor": "2",
+    "Outdoor": "1",
+    "Both": "3"
+  },
+  "distance": {
+    "Under5Miles": "0",
+    "5to10Miles": "3",
+    "Over10Miles": "3"
+  },
+  "submitted_at": "2025-04-01T00:12:35Z"
+},
+{
+  "_id": {
+    "$oid": "67eb9a2e05f4eae03707ed22"
+  },
+  "cuisine": {
+    "greek": "1",
+    "mexican": "2",
+    "italian": "2"
+  },
+  "dietary_preferences": {
+    "vegeterian": "3",
+    "vegan": "0",
+    "gluten_free": "3",
+    "low_fat": "1"
+  },
+  "greek_cuisine": {
+    "gyro": "2",
+    "souvlaki": "0",
+    "mousaka": "1"
+  },
+  "italian_cusine": {
+    "pizza": "2",
+    "pasta": "2",
+    "lasagna": "0"
+  },
+  "mexican_cuisine": {
+    "tacos": "0",
+    "burrito": "0",
+    "quesadilla": "1"
+  },
+  "budget_range": {
+    "under10": "1",
+    "10to20": "1",
+    "20to30": "0",
+    "over30": "2"
+  },
+  "seating": {
+    "Indoor": "3",
+    "Outdoor": "3",
+    "Both": "2"
+  },
+  "distance": {
+    "Under5Miles": "3",
+    "5to10Miles": "3",
+    "Over10Miles": "0"
+  },
+  "submitted_at": "2025-04-01T07:47:58Z"
+},
+{
+  "_id": {
+    "$oid": "67eb9a7093137b6a7f008d42"
+  },
+  "cuisine": {
+    "greek": "1",
+    "mexican": "3",
+    "italian": "3"
+  },
+  "dietary_preferences": {
+    "vegeterian": "1",
+    "vegan": "1",
+    "gluten_free": "2",
+    "low_fat": "1"
+  },
+  "greek_cuisine": {
+    "gyro": "1",
+    "souvlaki": "0",
+    "mousaka": "2"
+  },
+  "italian_cusine": {
+    "pizza": "1",
+    "pasta": "2",
+    "lasagna": "1"
+  },
+  "mexican_cuisine": {
+    "tacos": "2",
+    "burrito": "0",
+    "quesadilla": "1"
+  },
+  "budget_range": {
+    "under10": "0",
+    "10to20": "1",
+    "20to30": "1",
+    "over30": "3"
+  },
+  "seating": {
+    "Indoor": "2",
+    "Outdoor": "1",
+    "Both": "2"
+  },
+  "distance": {
+    "Under5Miles": "3",
+    "5to10Miles": "0",
+    "Over10Miles": "3"
+  },
+  "submitted_at": "2025-04-01T07:49:03Z"
+},
+{
+  "_id": {
+    "$oid": "67eb9c1b731364fedb040552"
+  },
+  "cuisine": {
+    "greek": "3",
+    "mexican": "3",
+    "italian": "1"
+  },
+  "dietary_preferences": {
+    "vegeterian": "1",
+    "vegan": "1",
+    "gluten_free": "2",
+    "low_fat": "0"
+  },
+  "greek_cuisine": {
+    "gyro": "2",
+    "souvlaki": "2",
+    "mousaka": "0"
+  },
+  "italian_cusine": {
+    "pizza": "3",
+    "pasta": "2",
+    "lasagna": "1"
+  },
+  "mexican_cuisine": {
+    "tacos": "2",
+    "burrito": "2",
+    "quesadilla": "0"
+  },
+  "budget_range": {
+    "under10": "2",
+    "10to20": "3",
+    "20to30": "3",
+    "over30": "0"
+  },
+  "seating": {
+    "Indoor": "0",
+    "Outdoor": "0",
+    "Both": "3"
+  },
+  "distance": {
+    "Under5Miles": "3",
+    "5to10Miles": "1",
+    "Over10Miles": "2"
+  },
+  "submitted_at": "2025-04-01T07:56:11Z"
+}]
